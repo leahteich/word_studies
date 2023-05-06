@@ -1,0 +1,6 @@
+https://www.ims.uni-stuttgart.de/en/research/resources/experiment-data/antonym-synonym-dataset/
+
+This dataset contains 600 adjective pairs (300 antonymous pairs and 300 synonymous pairs), 
+700 noun pairs (350 antonymous pairs and 350 synonymous pairs) and 800 verb pairs 
+(400 antonymous pairs and 400 synonymous pairs). 
+
