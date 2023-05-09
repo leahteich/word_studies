@@ -29,14 +29,12 @@ carbohydrate	sugar	0
 scepticism	belief	1
 intension	extension	1
 row	paddle	0
-clozapine	clozaril	0
 root	zealand	0
 reject	accept	1
 distortion	aberration	0
 enema	injection	0
 combatant	noncombatant	1
 elevation	depression	1
-helicopter	copter	0
 grandmother	nan	0
 loser	victor	1
 scrivener	scribe	0
@@ -58,7 +56,6 @@ functionality	procedure	0
 test	tryout	0
 mount	bank	0
 title	appellation	0
-litre	liter	0
 descendant	ascendant	1
 cooperation	contest	1
 goodbye	farewell	0
@@ -117,7 +114,6 @@ outset	end	1
 ugliness	beauty	1
 heaviness	lightness	1
 follower	leader	1
-voodoo	hoodoo	0
 pretty	ugly	1
 record	testimony	0
 unbeliever	believer	1
@@ -127,7 +123,6 @@ bladder	gall	0
 speck	spot	0
 length	width	1
 problem	solution	1
-tetanus	lockjaw	0
 farsightedness	nearsightedness	1
 yea	nay	1
 controller	accountant	0
@@ -169,7 +164,6 @@ sign	symptom	0
 winner	loser	1
 realism	idealism	1
 caboose	galley	0
-proscenium	front	0
 inn	hotel	0
 pollution	purity	1
 fastening	lock	0
@@ -183,8 +177,6 @@ standard	criterion	0
 adaptor	adapter	0
 defense	offence	1
 seaman	landsman	1
-malaysia	malaya	0
-network	reticulum	0
 undergraduate	postgraduate	1
 purchase	buy	0
 hat	leghorn	0
@@ -198,7 +190,6 @@ sound	crunch	0
 trader	merchant	0
 homozygote	heterozygote	1
 monster	behemoth	0
-aeroplane	airplane	0
 ancient	new	1
 nighttime	daytime	1
 mildew	mould	0
@@ -235,7 +226,6 @@ discontinuity	continuity	1
 chancery	equity	0
 moral	physical	1
 line	fillet	0
-iteration	repetition	0
 phylogeny	evolution	0
 negative	positive	1
 beginning	conclusion	1
@@ -248,7 +238,7 @@ heartwood	sapwood	1
 promotion	demotion	1
 factory	mint	0
 panel	medallion	0
-colour	tint	0
+color	tint	0
 majority	adulthood	0
 anode	cathode	1
 softness	loudness	1
@@ -262,7 +252,6 @@ illusion	hallucination	0
 hovel	shack	0
 exonym	endonym	1
 son	father	1
-zion	yisrael	0
 vanguard	rearguard	1
 position	condition	0
 scat	droppings	0
@@ -290,7 +279,6 @@ title	designation	0
 levity	gravity	1
 traditionalism	rationalism	1
 lead	deficit	1
-barrel	bbl	0
 minimum	maximum	1
 declassification	classification	1
 release	death	0
@@ -339,7 +327,6 @@ stern	bow	1
 militant	activist	0
 straw	stubble	0
 divergence	convergence	1
-hall	manse	0
 disturbance	annoyance	0
 stake	stakes	0
 discouragement	encouragement	1
@@ -373,7 +360,6 @@ parent	kid	1
 valley	dale	0
 chief	general	0
 vegetation	fauna	1
-blazon	description	0
 fear	bravery	1
 tibia	shinbone	0
 spending	income	1
@@ -391,11 +377,9 @@ commander	proconsul	0
 citizen	alien	1
 classification	declassification	1
 plural	singular	1
-alertness	wakefulness	0
 maintenance	assertion	0
 piety	devotion	0
 fear	fearlessness	1
-tipi	tepee	0
 stabilization	destabilization	1
 import	export	1
 nobody	someone	1
@@ -404,7 +388,6 @@ prudence	caution	0
 squire	escort	0
 justice	jurist	0
 layer	ply	0
-auricle	ear	0
 augmentation	growth	0
 overstatement	understatement	1
 hardback	paperback	1
@@ -414,7 +397,6 @@ romanticism	classicism	1
 check	verification	0
 time	clip	0
 living	dead	1
-flashback	analepsis	0
 discoloration	stain	0
 reduction	oxidation	1
 balance	asymmetry	1
@@ -427,11 +409,8 @@ chaos	order	1
 sunset	daybreak	1
 reputation	disrepute	1
 extension	propagation	0
-duck	eider	0
 deep	shallow	1
-streetwalker	prostitute	0
 analysis	synthesis	1
-width	spaciousness	0
 photo	picture	0
 atonality	tonality	1
 career	vocation	0
@@ -462,8 +441,6 @@ carol	noel	0
 satisfaction	fulfillment	0
 blame	excuse	1
 roll	roller	0
-crossroad	carrefour	0
-linen	napery	0
 prosecution	defence	1
 pale	red	1
 augmentation	diminution	1
@@ -477,14 +454,11 @@ beginning	end	1
 devotion	consecration	0
 institution	education	0
 frank	secret	1
-sword	colada	0
 acid	base	1
 fahrenheit	celsius	1
 pass	gap	0
 lawfulness	unlawfulness	1
 essential	accessory	1
-onager	trebuchet	0
-tray	salver	0
 blood	lineage	0
 cow	steer	1
 liking	dislike	1
@@ -528,7 +502,6 @@ credit	cash	1
 hate	love	1
 importance	magnitude	0
 concept	misconception	1
-saddle	col	0
 instability	balance	1
 secular	sacred	1
 bit	coin	0
@@ -536,8 +509,6 @@ sound	jangle	0
 decoration	ribbon	0
 average	standard	0
 danger	safety	1
-girdle	cestus	0
-cultus	cult	0
 compound	increase	0
 coney	rabbit	0
 interruption	suspension	0
@@ -553,7 +524,6 @@ pleasure	solace	0
 goblin	hob	0
 foreigner	native	1
 skip	interval	0
-baht	tical	0
 nadir	bottom	0
 benevolence	malevolence	1
 hatred	compassion	1
@@ -561,7 +531,6 @@ church	kirk	0
 sameness	difference	1
 extension	expansion	0
 loser	success	1
-thyrotoxicosis	hyperthyroidism	0
 sewing	stitching	0
 morality	virtue	0
 normality	abnormality	1
@@ -582,10 +551,8 @@ signal	noise	1
 line	outline	0
 treble	bass	1
 prison	pit	0
-mortarboard	cap	0
 aspersion	sprinkling	0
 item	token	0
-cognomen	surname	0
 witness	observer	0
 gag	joke	0
 mass	assemblage	0
@@ -608,14 +575,12 @@ creditor	debtor	1
 womankind	mankind	1
 superior	inferior	1
 optimist	pessimist	1
-annulus	ring	0
 kindness	generosity	0
 entertainment	feast	0
 drug	dope	0
 detractor	supporter	1
 machine	shape	0
 constancy	change	1
-mysticism	quietism	0
 daughter	father	1
 enquiry	answer	1
 hive	swarm	0
@@ -623,7 +588,6 @@ affiliation	association	0
 arrangement	settlement	0
 prefix	suffix	1
 superhero	supervillain	1
-woodlouse	slater	0
 clarity	obscurity	1
 mixture	solution	1
 nobody	somebody	1
@@ -632,13 +596,11 @@ absolute	perfect	0
 sweet	sour	1
 linen	line	0
 night	daytime	1
-banner	oriflamme	0
 tissue	muscle	0
 prominence	obscurity	1
 blight	blast	0
 same	different	1
 yawl	sloop	1
-case	nominative	0
 judgment	taste	0
 place	town	0
 hammer	rammer	0
@@ -662,7 +624,6 @@ handle	hold	0
 reference	extension	0
 resignation	surrender	0
 distress	comfort	1
-giddiness	vertigo	0
 home	abode	0
 offense	defense	1
 boost	help	0
@@ -679,7 +640,6 @@ uncle	aunt	1
 like	dislike	1
 sanity	madness	1
 catabolism	anabolism	1
-poem	iambic	0
 sore	ulcer	0
 backhand	forehand	1
 paperback	hardbound	1
@@ -722,7 +682,6 @@ microstructure	macrostructure	1
 tux	tuxedo	0
 municipal	village	0
 summer	winter	1
-atonement	expiation	0
 victor	master	0
 chip	check	0
 tray	server	0
@@ -744,13 +703,11 @@ convulsion	spasm	0
 appellee	appellant	1
 production	performance	0
 balm	salve	0
-sequela	result	0
 break	rupture	0
 graduate	grad	0
 works	duty	0
 urgency	pressure	0
 swap	switch	0
-expression	locution	0
 particularity	generality	1
 answer	question	1
 childhood	maturity	1
@@ -761,7 +718,6 @@ possession	madness	0
 exportation	importation	1
 weapon	gun	0
 kernel	essence	0
-mhz	megahertz	0
 libra	aries	1
 retardation	acceleration	1
 shop	garage	0
@@ -796,8 +752,6 @@ germ	soma	1
 mother	daughter	1
 sock	buskin	1
 inexperience	experience	1
-integrator	planimeter	0
-sword	scimitar	0
 saloon	barroom	0
 abundance	deficiency	1
 aspirin	bayer	0
@@ -817,7 +771,6 @@ quiet	peace	0
 stasis	movement	1
 disassembly	assembly	1
 nadir	zenith	1
-stirrup	stapes	0
 giver	taker	1
 plurality	singularity	1
 grandmother	granddaughter	1
@@ -826,8 +779,6 @@ season	time	0
 boarding	disembarkation	1
 disposition	mood	0
 competition	cooperation	1
-nightspot	club	0
-awareness	sentience	0
 typeface	font	0
 complainant	suspect	1
 transitive	intransitive	1
@@ -835,7 +786,6 @@ knowledge	ignorance	1
 pigeon	gull	0
 football	soccer	0
 reform	correction	0
-bearcat	binturong	0
 pest	plague	0
 addition	appendage	0
 synthesis	hypothesis	1
@@ -863,7 +813,6 @@ annals	history	0
 keep	dungeon	0
 minute	big	1
 employment	underemployment	1
-covetousness	greed	0
 coffeehouse	cafe	0
 employer	employee	1
 substitute	reserve	0
@@ -874,7 +823,6 @@ apex	peak	0
 break	hold	1
 subordinate	supervisor	1
 seed	germ	0
-electrocardiogram	ekg	0
 call	put	1
 tavern	inn	0
 bears	bull	1
@@ -884,7 +832,6 @@ evening	morning	1
 regard	scene	0
 theatre	theater	0
 top	underside	1
-glycerin	glycerol	0
 inaction	action	1
 circumstance	setting	0
 style	manner	0
@@ -922,7 +869,6 @@ penalty	advantage	1
 essay	treatise	0
 classicism	romanticism	1
 siege	investment	0
-ointment	unguent	0
 pain	pleasure	1
 unbalance	balance	1
 right	duty	1
@@ -950,7 +896,6 @@ nephew	aunt	1
 bead	drop	0
 downfall	rise	1
 parent	child	1
-vassal	liegeman	0
 crest	top	0
 progress	advancement	0
 proliferation	nonproliferation	1
@@ -975,13 +920,11 @@ sadist	masochist	1
 joystick	stick	0
 cockpit	cabin	1
 doubt	trust	1
-destructor	destroyer	0
 plains	field	0
 presents	future	1
 zoology	botany	1
 see	diocese	0
 interest	disinterest	1
-cavalryman	hussar	0
 real	imaginary	1
 hindrance	aid	1
 small	large	1
@@ -1027,7 +970,6 @@ embarkation	disembarkation	1
 slip	cutting	0
 fatalism	determinism	0
 lagoon	pond	0
-maleness	masculinity	0
 daybreak	night	1
 nationalization	privatization	1
 drive	campaign	0
@@ -1035,7 +977,6 @@ guy	girls	1
 christian	pagan	1
 subsistence	livelihood	0
 perception	percept	0
-odontology	dentistry	0
 contrary	opponent	0
 sharp	flat	1
 rind	peel	0
@@ -1050,7 +991,6 @@ compartment	partition	0
 loss	gain	1
 evil	goodness	1
 niece	uncle	1
-exegesis	exposition	0
 cooling	heating	1
 subway	underground	0
 crime	arson	0
@@ -1069,7 +1009,6 @@ heat	cold	1
 extraversion	introversion	1
 bit	scrap	0
 hatred	affection	1
-abridgment	epitome	0
 molecule	particle	0
 translator	transcriber	0
 statue	position	0
@@ -1086,7 +1025,6 @@ interior	exterior	1
 tenet	position	0
 line	linen	0
 thickness	thinness	1
-intrigue	manoeuvre	0
 christian	heretic	1
 shape	flesh	0
 taker	giver	1
@@ -1100,7 +1038,6 @@ scripture	book	0
 fashion	custom	0
 brood	breed	0
 bondage	freedom	1
-reference	denotation	0
 start	ending	1
 inpatient	outpatient	1
 lady	mistress	0
@@ -1115,7 +1052,6 @@ poem	heroic	0
 pleasure	pain	1
 determinant	epitope	0
 judgment	determination	0
-mast	mizzenmast	0
 infection	influence	0
 inaccuracy	error	0
 west	east	1
@@ -1123,8 +1059,6 @@ limited	local	1
 fulcrum	lever	1
 downstairs	upstairs	1
 hurt	pain	0
-seaweed	dulse	0
-tnt	trinitrotoluene	0
 rape	force	0
 digitigrade	plantigrade	1
 publicity	privacy	1
@@ -1151,7 +1085,6 @@ penitentiary	prison	0
 hollow	tunnel	0
 parts	region	0
 successor	predecessor	1
-codex	manuscript	0
 unbelief	belief	1
 rev	rpm	0
 nobleman	lady	1
@@ -1163,7 +1096,6 @@ reminiscence	recollection	0
 tomorrow	yesterday	1
 malady	health	1
 liberal	conservative	1
-metropolis	archbishopric	0
 disbelief	doubt	0
 output	product	0
 backwardation	contango	1
@@ -1186,16 +1118,12 @@ off	leg	1
 realism	nominalism	1
 score	tally	0
 principal	constituent	0
-wreath	chaplet	0
 origin	rise	0
 exercise	workout	0
 simplicity	complexity	1
-charlatan	mountebank	0
-palaeontology	paleontology	0
 specialist	generalist	1
 priority	posteriority	1
 recession	boom	1
-esquire	esq	0
 depression	elevation	1
 physique	figure	0
 honesty	dishonesty	1
@@ -1214,7 +1142,6 @@ support	oppose	1
 hypoglycemia	hyperglycemia	1
 victor	loser	1
 apprehension	expectation	0
-hospital	lazaret	0
 upturn	downturn	1
 mannerism	affectation	0
 turmoil	disturbance	0
@@ -1233,7 +1160,6 @@ upstroke	downstroke	1
 criminalization	decriminalization	1
 lining	facing	0
 pack	plot	0
-biscuit	hardtack	0
 progress	regress	1
 dysgenics	eugenics	1
 innocent	criminal	1
@@ -1253,7 +1179,6 @@ high	low	1
 upland	marsh	1
 chain	range	0
 individual	general	1
-urea	carbamide	0
 derivative	derivation	0
 speculation	surmise	0
 powerlessness	power	1
@@ -1268,8 +1193,6 @@ predecessor	follower	1
 improbability	probability	1
 endeavor	attempt	0
 nobody	anyone	1
-database	databank	0
-genie	djinn	0
 dingle	valley	0
 tingle	chill	0
 people	companions	0
@@ -1335,7 +1258,6 @@ lagoon	channel	0
 gender	kind	0
 service	good	1
 crown	pennant	0
-syrian	syriac	0
 girlie	girl	0
 shipwright	shipbuilder	0
 ingot	pig	0
@@ -1347,7 +1269,6 @@ dryness	moisture	1
 conformist	nonconformist	1
 singular	plural	1
 fluorescence	phosphorescence	1
-bouquet	nosegay	0
 son	parent	1
 sinkhole	sink	0
 replication	replica	0
@@ -1385,7 +1306,7 @@ petroleum	crude	0
 fleet	navy	0
 descent	rise	1
 wealth	abundance	0
-feel	flavour	0
+feel	flavor	0
 grille	grill	0
 agonist	antagonist	1
 nominalism	realism	1
@@ -1402,7 +1323,6 @@ forest	prairie	1
 balance	instability	1
 group	army	0
 belief	impression	0
-farm	fazenda	0
 nothingness	existence	1
 increase	diminution	1
 distillation	distillate	0
@@ -1426,7 +1346,6 @@ youth	elderly	1
 inland	border	1
 impotence	power	1
 exterior	interior	1
-drone	bourdon	0
 one	individual	0
 malevolence	benevolence	1
 quarter	tail	0
@@ -1463,7 +1382,6 @@ tread	rise	1
 farewell	greeting	1
 aeronautics	astronautics	0
 fascism	democracy	1
-bollock	testicle	0
 epitasis	protasis	1
 harpist	harper	0
 board	card	0
@@ -1492,7 +1410,6 @@ systole	diastole	1
 ship	leviathan	0
 pact	agreement	0
 situation	post	0
-lobby	antechamber	0
 queen	rex	1
 dome	building	0
 hyperglycemia	hypoglycemia	1
@@ -1503,11 +1420,9 @@ proponent	opponent	1
 permeability	impermeability	1
 employment	engagement	0
 growth	development	0
-monomania	insanity	0
 access	accession	0
 shine	play	0
 acid	alkali	1
-freshman	plebe	0
 local	limited	1
 employment	unemployment	1
 flame	fire	0
@@ -1537,7 +1452,6 @@ antipathy	sympathy	1
 overflow	inundation	0
 rank	membership	0
 lag	delay	0
-pin	duckpin	0
 virtue	fault	1
 present	absent	1
 certainty	uncertainty	1
@@ -1611,7 +1525,6 @@ absence	presence	1
 season	spice	0
 hook	draw	0
 slowing	acceleration	1
-iglu	igloo	0
 female	male	1
 verge	slope	0
 inductor	coil	0
@@ -1635,7 +1548,7 @@ minority	majority	1
 mountain	valley	1
 base	noble	1
 privatization	privatisation	0
-realisation	recognition	0
+realization	recognition	0
 catch	drop	1
 touchback	safety	1
 acceptance	rejection	1
@@ -1670,14 +1583,12 @@ optics	optic	0
 security	surety	0
 aunt	uncle	1
 hothouse	conservatory	0
-representationalism	realism	0
 balance	imbalance	1
 subjective	objective	1
 outside	interior	1
 myopia	hyperopia	1
 controlling	order	0
 comedy	tragedy	1
-aquilegia	columbine	0
 unwillingness	willingness	1
 particular	minute	0
 objectivity	subjectivity	1
@@ -1689,13 +1600,11 @@ authorization	authority	0
 impermanence	permanence	1
 corkscrew	spiral	0
 speck	atom	0
-parallelogram	trapezium	1
 pure	applied	1
 subtrahend	minuend	1
 merger	takeover	1
 obstacle	impediment	0
 orchard	grove	0
-activewear	sportswear	0
 intention	counsel	0
 gunfight	shootout	0
 luxury	necessity	1
@@ -1707,29 +1616,23 @@ qualification	change	0
 elderly	youth	1
 ally	foe	1
 finish	start	1
-donee	beneficiary	0
 bravery	fear	1
-misery	wretchedness	0
 brazier	hearth	0
 back	front	1
-primate	hierarch	0
 sunrise	sundown	1
 report	sound	0
 bazaar	fair	0
 decrease	increase	1
 put	call	1
 misfortune	fortune	1
-steersman	pilot	0
 kickoff	end	1
 exogamy	endogamy	1
 disgrace	dishonor	0
-calamus	shaft	0
 member	nonmember	1
 grit	guts	0
 trench	deep	0
 acyclovir	zovirax	0
 outrage	insult	0
-wax	cerumen	0
 parallelism	similarity	0
 commencement	rise	0
 luck	destiny	0
@@ -1737,7 +1640,6 @@ plantigrade	digitigrade	1
 saving	rescue	0
 story	tome	0
 aggregate	compound	1
-shrine	lararium	0
 intolerance	tolerance	1
 nighttime	day	1
 liberal	free	0
@@ -1750,7 +1652,6 @@ mode	matter	1
 imbalance	balance	1
 middle	rim	1
 wilderness	wild	0
-fortification	breastwork	0
 park	building	1
 guy	gals	1
 effect	expression	0
@@ -1759,7 +1660,6 @@ acting	dramaturgy	0
 narcotic	stimulant	1
 mortal	immortal	1
 realty	personalty	1
-cent	eurocent	0
 specific	general	1
 missile	bomb	0
 word	intelligence	0
@@ -1789,7 +1689,6 @@ illness	health	1
 regression	progression	1
 stead	position	0
 runway	rail	0
-masculinity	maleness	0
 falseness	truth	1
 command	charge	0
 warrant	authority	0
@@ -1803,7 +1702,6 @@ quote	unquote	1
 plenty	mountain	0
 height	depth	1
 picture	model	0
-adaption	adaptation	0
 adult	juvenile	1
 pollution	conservation	1
 employee	employer	1
@@ -1823,13 +1721,12 @@ miss	strike	1
 inhalation	exhalation	1
 privilege	duty	1
 trust	distrust	1
-neighbour	neighbor	0
+neighbor	neighbor	0
 inefficiency	efficiency	1
 white	black	1
 passion	emotion	0
 inequity	unfairness	0
 opinion	belief	0
-quoin	corner	0
 ending	middle	1
 lee	weather	1
 outfielder	infielder	1
@@ -1841,7 +1738,6 @@ debut	unveiling	0
 monotheism	polytheism	1
 buff	debuff	1
 bribe	tip	0
-geisha	geiko	0
 film	membrane	0
 respect	deference	0
 fall	ascension	1
@@ -1854,7 +1750,6 @@ founder	author	0
 service	capital	1
 traitor	patriot	1
 peace	war	1
-unawareness	ignorance	0
 complex	complication	0
 anticyclone	cyclone	1
 angel	darling	0
@@ -1877,7 +1772,6 @@ displeasure	pleasure	1
 sunrise	sunset	1
 lack	surplus	1
 zone	circumference	0
-soldier	grenadier	0
 idealism	realism	1
 peak	crown	0
 egress	ingress	1
@@ -1895,8 +1789,6 @@ rim	middle	1
 detection	perception	0
 fall	rise	1
 drinker	abstainer	1
-oppression	subjugation	0
-dog	weenie	0
 caution	advice	0
 hire	fire	1
 dwarf	giant	1
@@ -1931,7 +1823,6 @@ split	fissure	0
 break	recess	0
 ancestor	descendent	1
 hardware	software	1
-vestibule	antechamber	0
 streetcar	tram	0
 report	study	0
 existence	nonexistence	1
@@ -1958,7 +1849,6 @@ ally	relative	0
 melody	discord	1
 disagreement	agreement	1
 consonant	vowel	1
-red	cochineal	0
 negative	affirmative	1
 thinness	thickness	1
 departure	arrival	1
@@ -1984,7 +1874,7 @@ series	parallel	1
 influx	efflux	1
 fertility	infertility	1
 advent	arrival	0
-vicinity	neighbourhood	0
+vicinity	neighborhood	0
 mobile	stabile	1
 endoskeleton	exoskeleton	1
 defendant	complainant	1
@@ -2023,7 +1913,6 @@ conservative	liberal	1
 calling	career	0
 synonym	antonym	1
 inspection	examination	0
-branch	sprig	0
 obedience	disobedience	1
 crescendo	climax	1
 side	incline	0
@@ -2099,11 +1988,9 @@ gain	increase	0
 temporary	permanent	1
 reverse	obverse	1
 ogre	demon	0
-levee	floodwall	0
 incentive	disincentive	1
 practice	habit	0
 continuant	stop	1
-corpuscle	electron	0
 wizard	sorcerer	0
 hunter	game	1
 joint	break	1
@@ -2120,7 +2007,6 @@ irrelevance	relevance	1
 anger	pleasure	1
 syllabus	program	0
 former	latter	1
-nature	naturalness	0
 misunderstanding	mistake	0
 training	drill	0
 viewfinder	finder	0
@@ -2139,14 +2025,12 @@ substantive	adjective	1
 abuse	insult	0
 violation	trespass	0
 extremity	end	0
-vest	waistcoat	0
 polygyny	monogamy	1
 feminine	masculine	1
 beneficence	maleficence	1
 morning	aurora	0
 finish	beginning	1
 break	shift	0
-inscription	exergue	0
 awe	reverence	0
 collapse	breakdown	0
 convergence	divergence	1
@@ -2169,7 +2053,6 @@ cathode	anode	1
 failure	winner	1
 wizard	genius	0
 hollow	elevation	1
-trapezium	quadrilateral	0
 falsehood	truth	1
 bulk	majority	0
 fence	protection	0
@@ -2185,16 +2068,13 @@ softball	hardball	1
 axle	axis	0
 ordinance	arrangement	0
 soil	land	0
-trapezium	parallelogram	1
 leaf	flap	0
 color	species	0
 automobile	motorcycle	0
 night	day	1
 lose	win	1
 coldness	heat	1
-path	footway	0
 fall	pin	0
-headpiece	helmet	0
 couple	united	0
 mass	canon	0
 decrease	pay	1
@@ -2205,11 +2085,9 @@ statue	colossus	0
 theist	atheist	1
 chemist	apothecary	0
 stabile	mobile	1
-substructure	foundation	0
 mainland	island	1
 proceeds	producer	0
 march	advancement	0
-seal	sealskin	0
 instruction	advice	0
 cause	campaign	0
 child	parent	1
@@ -2242,7 +2120,6 @@ illusionist	magician	0
 misinterpretation	misunderstanding	0
 pace	rack	0
 guy	fool	0
-magician	warlock	0
 airplane	plane	0
 dispersion	concentration	1
 shallowness	depth	1
@@ -2257,7 +2134,6 @@ polygyny	monogyny	1
 magistrate	recorder	0
 decay	corruption	0
 stator	rotor	1
-analyser	analyzer	0
 mail	matter	0
 mile	mil	0
 source	seed	0
@@ -2276,7 +2152,6 @@ welfare	commonwealth	0
 incoherence	coherence	1
 star	sensation	0
 enemy	ally	1
-compositor	typesetter	0
 ladder	run	0
 sex	gender	0
 demand	supply	1
@@ -2292,10 +2167,7 @@ concern	firm	0
 uncle	auntie	1
 opening	shutting	1
 valley	mountain	1
-tsar	czar	0
-desquamation	peeling	0
 savage	wild	0
-oslo	christiania	0
 suffix	prefix	1
 mystery	form	0
 decrease	rise	1
@@ -2315,7 +2187,6 @@ subjectivism	objectivism	1
 diminution	increase	1
 stock	fund	0
 posterior	anterior	1
-cavalryman	horseman	0
 heart	essence	0
 anatomy	build	0
 engineer	pioneer	0
@@ -2330,7 +2201,6 @@ cord	cable	0
 affinity	relation	0
 cowardice	courage	1
 podium	dais	0
-artificer	craftsman	0
 condensation	contraction	0
 feeling	impression	0
 sound	splash	0
@@ -2356,7 +2226,6 @@ morning	evening	1
 polyphony	monophony	1
 opportunity	turn	0
 nonconformist	conformist	1
-carina	ridge	0
 rise	fall	1
 meat	drink	1
 rim	body	1
@@ -2372,13 +2241,11 @@ tip	top	0
 notification	notice	0
 income	expenditure	1
 piece	item	0
-term	terminus	0
 appeal	recourse	0
 day	night	1
 front	rear	1
 whisper	shout	1
 understanding	sense	0
-chlortetracycline	aureomycin	0
 wisdom	dexterity	0
 handle	ear	0
 screech	scream	0
@@ -2421,7 +2288,6 @@ retail	wholesale	1
 regular	irregular	1
 cruelty	mercy	1
 ascendant	descendant	1
-duel	holmgang	0
 fate	freedom	1
 disconnection	connection	1
 foundation	institution	0
@@ -2464,7 +2330,6 @@ student	teacher	1
 mobilization	demobilization	1
 public	private	1
 keeper	custodian	0
-consonance	harmony	0
 nearside	offside	1
 capitalism	socialism	1
 plastic	elastic	1
@@ -2496,14 +2361,12 @@ noise	silence	1
 obstacle	barrage	0
 nation	land	0
 par	bogey	1
-boarder	lodger	0
 father	daughter	1
 event	business	0
 insult	trauma	0
 voluntarism	intellectualism	1
 favorite	least	1
 august	aug	0
-river	anabranch	0
 disregard	attention	1
 catch	release	1
 recto	verso	1
@@ -2556,8 +2419,6 @@ dislike	like	1
 payment	evasion	1
 being	nonbeing	1
 design	idea	0
-jinni	genie	0
-monkey	mangabey	0
 glut	shortage	1
 sign	mansion	0
 approval	disapproval	1
@@ -2570,7 +2431,6 @@ whole	party	1
 elevation	height	0
 man	beast	1
 inclusion	exclusion	1
-cimetidine	tagamet	0
 pool	bethesda	0
 middle	start	1
 desert	barren	0
@@ -2583,20 +2443,17 @@ cave	grotto	0
 action	inactivity	1
 queue	join	0
 churchyard	cemetery	0
-casket	reliquary	0
 unreliability	reliability	1
 settlement	adjustment	0
 blackness	whiteness	1
 figure	physique	0
 insomnia	hypersomnia	1
 amplitude	size	0
-exarchate	eparchy	0
 jump	skydive	0
 grandmother	grandchild	1
 parting	departure	0
 open	public	0
 grand	small	1
-chroma	intensity	0
 premium	discount	1
 adaptation	fitness	0
 congresswoman	representative	0
@@ -2634,13 +2491,10 @@ curiosity	ignorance	1
 minute	general	1
 disclaimer	claim	1
 noblewoman	nobleman	1
-denim	dungaree	0
-luxation	dislocation	0
 euphemism	dysphemism	1
 zither	cittern	1
 contrast	analogy	1
 space	walk	0
-ament	catkin	0
 shopping	studio	0
 reading	interpretation	0
 realm	division	0
@@ -2668,7 +2522,6 @@ net	gross	1
 humility	modesty	0
 pro	con	1
 centrifugal	centripetal	1
-bulbil	bulblet	0
 marshland	marsh	0
 girdle	corset	0
 euphoria	dysphoria	1
@@ -2694,14 +2547,12 @@ ease	difficulty	1
 leap	spring	0
 perigee	apogee	1
 femininity	masculinity	1
-behaviour	behavior	0
 characterization	portrayal	0
 cosmetic	paint	0
 segregation	integration	1
 strike	wave	0
 perfection	imperfection	1
 activator	inhibitor	1
-lip	labium	0
 subscript	superscript	1
 grease	fat	0
 disposition	propensity	0
@@ -2711,7 +2562,6 @@ raise	fall	1
 pond	cistern	0
 counting	enumeration	0
 concentration	dispersion	1
-stanza	englyn	0
 triumph	conquest	0
 blame	injury	0
 gelatin	jelly	0
@@ -2719,11 +2569,9 @@ heteronomy	autonomy	1
 desire	grief	0
 misconception	conception	1
 quiet	loud	1
-actualization	realization	0
 keno	bingo	0
 daughter	son	1
 drink	drinking	0
-priest	pontifex	0
 resistance	impedance	0
 opposite	contrary	0
 perihelion	aphelion	1
@@ -2764,7 +2612,6 @@ creator	creature	1
 decrease	growth	1
 availability	unavailability	1
 excursion	expedition	0
-shoal	sandbank	0
 decade	ten	0
 ornament	grace	0
 king	monarch	0
@@ -2773,26 +2620,21 @@ socialism	capitalism	1
 initial	final	1
 blow	shock	0
 obverse	reverse	1
-conquest	subjugation	0
 preparation	grooming	0
 righteousness	unrighteousness	1
 suburb	outskirt	0
 short	long	1
 increase	shrinkage	1
-watchtower	beacon	0
 gap	spread	0
 artificial	natural	1
 wave	swing	0
 context	isolation	1
 stock	standard	0
 decline	incline	1
-pollex	thumb	0
 book	treatise	0
 specific	universal	1
-wart	verruca	0
 analogue	digital	1
 screen	blind	0
-furze	gorse	0
 rancho	hacienda	1
 behemoth	monster	0
 avenue	boulevard	0
@@ -2833,4 +2675,3 @@ bay	alcove	0
 stadium	arena	1
 denial	prosecution	1
 retail	report	0
-lord	suzerain	0
