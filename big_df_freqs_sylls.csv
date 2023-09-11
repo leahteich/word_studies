@@ -1,4 +1,4 @@
-Word,Freq_Per_Mil1,Log_Freq_Per_Mil1,Word_Length,Word_Syll
+Word,Freq_Per_Mil,Log_Freq,Word_Length,Word_Syll
 0,aardvark,0.41,1.3424,8.0,2.0
 1,aback,0.29,1.2041,5.0,2.0
 2,abacus,0.24,1.1139,6.0,3.0

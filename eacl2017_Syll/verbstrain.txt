@@ -11,7 +11,7 @@ bear	assume	0
 align	skew	1
 destroy	repair	1
 ignore	mention	1
-know	recognise	0
+know	recognize	0
 break	soften	0
 reward	honor	0
 stow	hold	0
@@ -89,7 +89,6 @@ find	supply	0
 swim	sink	1
 sting	burn	0
 unfasten	fasten	1
-regurgitate	vomit	0
 get	fashion	0
 enter	participate	0
 target	point	0
@@ -212,7 +211,7 @@ muster	rally	0
 release	immobilize	1
 descend	rise	1
 disbelieve	believe	1
-utilise	apply	0
+utilize	apply	0
 designate	appoint	0
 admonish	inform	0
 wedge	free	1
@@ -327,7 +326,7 @@ cope	handle	0
 corrupt	purify	1
 maximize	minimise	1
 stretch	tighten	0
-recognise	distinguish	0
+recognize	distinguish	0
 recede	win	1
 experiment	experience	0
 plant	devise	0
@@ -351,7 +350,6 @@ admit	exclude	1
 indulge	abstain	1
 diminish	cut	0
 fix	nail	0
-instal	install	0
 confirm	disconfirm	1
 torment	afflict	0
 reprint	reissue	0
@@ -364,7 +362,7 @@ dictate	suggest	0
 recount	mention	0
 retrieve	forget	1
 trail	float	0
-nationalise	denationalise	1
+nationalize	denationalize	1
 detach	attach	1
 worry	assure	1
 affirm	negate	1
@@ -436,7 +434,6 @@ materialize	dematerialize	1
 offer	tender	0
 pump	breathe	0
 make	break	1
-allege	adduce	0
 shed	slough	0
 fold	unfold	1
 pilot	navigate	0
@@ -590,7 +587,6 @@ guess	believe	0
 punish	correct	0
 decode	encode	1
 set	rig	0
-labialize	round	0
 run	bleed	0
 integrate	perfect	0
 deviate	vary	0
@@ -612,7 +608,6 @@ describe	narrate	0
 collect	distribute	1
 take	refrain	1
 recall	think	0
-spray	atomize	0
 corroborate	contradict	1
 attach	detach	1
 roll	roam	0
@@ -755,7 +750,7 @@ conflate	combine	0
 implement	free	1
 room	board	0
 feign	assume	0
-equalise	match	0
+equalize	match	0
 negate	affirm	1
 obscure	obliterate	0
 cajole	bully	1
@@ -778,11 +773,10 @@ disembark	embark	1
 link	disconnect	1
 dismiss	employ	1
 encourage	discourage	1
-minimise	maximise	1
+minimize	maximize	1
 undo	make	1
 depict	interpret	0
 defend	prosecute	1
-shoal	school	0
 couple	decouple	1
 scramble	unscramble	1
 yield	survive	1
@@ -810,7 +804,7 @@ prevent	conclude	1
 conceal	uncover	1
 abandon	appropriate	1
 apply	appropriate	0
-analyse	synthesise	1
+analyze	synthesize	1
 withdraw	progress	1
 deviate	conform	1
 affect	hit	0
@@ -840,7 +834,7 @@ bind	unbind	1
 magnetize	demagnetize	1
 mask	unmask	1
 provide	afford	0
-air	publicise	0
+air	publicize	0
 survive	predecease	1
 lock	withdraw	1
 act	forbear	1
@@ -891,7 +885,6 @@ think	forget	1
 separate	unify	1
 widen	narrow	1
 orient	tailor	0
-vandalise	vandalize	0
 unfurl	roll	1
 build	erect	0
 enumerate	relate	0
@@ -967,13 +960,11 @@ charter	lease	0
 repulse	attract	1
 exile	deport	0
 expand	thrive	0
-empower	authorise	0
 overrate	underrate	1
 winter	summer	1
 strike	take	0
 add	deduct	1
 formalize	avoid	1
-denationalise	nationalise	1
 arouse	calm	1
 regulate	deregulate	1
 reconstruct	remodel	0
@@ -1065,7 +1056,6 @@ disinvest	invest	1
 violate	keep	1
 respect	repute	0
 push	labor	0
-plat	plan	0
 repair	amend	0
 assemble	gather	0
 acknowledge	deny	1
@@ -1217,7 +1207,7 @@ maintain	allege	0
 recede	advance	1
 leave	disinherit	1
 arise	issue	0
-recognise	greet	0
+recognize	greet	0
 accuse	acquit	1
 scatter	concentrate	1
 deteriorate	improve	1
@@ -1283,7 +1273,7 @@ disperse	distribute	0
 offend	annoy	0
 accept	understand	0
 unmask	mask	1
-realise	gain	0
+realize	gain	0
 see	ascertain	0
 disengage	engage	1
 wax	wane	1
@@ -1340,7 +1330,6 @@ conclude	end	0
 free	jam	1
 offend	keep	1
 repel	attract	1
-transmute	change	0
 unhook	hook	1
 expire	die	0
 anticipate	forestall	0
@@ -1368,7 +1357,7 @@ fail	flunk	0
 pull	repulse	1
 unscrew	screw	1
 wreck	save	1
-minimise	exaggerate	1
+minimize	exaggerate	1
 subscribe	agree	0
 raise	break	1
 deny	admit	1
@@ -1594,7 +1583,6 @@ surrender	resist	1
 unfreeze	freeze	1
 shoot	take	0
 bend	straighten	1
-symbolize	symbolise	0
 wreck	restore	1
 sum	comprise	0
 admit	refuse	1
@@ -1630,7 +1618,6 @@ buy	preempt	0
 assail	defend	1
 incline	turn	0
 set	adjust	0
-mottle	streak	0
 respect	reference	0
 let	forbid	1
 condemn	blame	0
@@ -1676,7 +1663,7 @@ sort	fit	0
 construct	make	0
 cut	enlarge	1
 disappoint	satisfy	1
-colour	influence	0
+color	influence	0
 stifle	suffocate	0
 evidence	show	0
 abolish	launch	1
@@ -1834,7 +1821,6 @@ calm	tranquilize	0
 start	begin	0
 please	offend	1
 free	freeze	1
-curve	recurve	0
 match	rival	0
 mention	remark	0
 drag	brake	0
@@ -1867,15 +1853,14 @@ decline	consent	1
 take	consume	0
 top	base	1
 deduct	add	1
-honour	observe	0
+honor	observe	0
 acquire	evolve	0
 dive	explore	0
 restore	break	1
 obviate	take	1
 drag	draw	0
-authorise	empower	0
+authorize	empower	0
 please	displease	1
-dehisce	open	0
 breed	produce	0
 cheer	complain	1
 admit	deny	1
@@ -1918,7 +1903,6 @@ recall	retrieve	0
 presuppose	assume	0
 terminate	employ	1
 oppose	check	0
-round	labialize	0
 enhance	advance	0
 depict	give	0
 diminish	dwindle	0
@@ -1950,12 +1934,11 @@ simplify	complicate	1
 express	squeeze	0
 decline	bend	0
 hire	engage	0
-realise	earn	0
+realize	earn	0
 stay	restrain	0
 discharge	draft	1
 miss	strike	1
 reassure	worry	1
-edit	retouch	0
 match	equal	0
 appeal	repel	1
 install	uninstall	1
@@ -1993,7 +1976,7 @@ acquire	lose	1
 occupy	engage	0
 shape	imagine	0
 avoid	face	1
-jeopardise	threaten	0
+jeopardize	threaten	0
 break	raise	1
 hit	strike	0
 shape	make	0
@@ -2013,7 +1996,7 @@ uphold	cease	1
 blame	absolve	1
 cut	elaborate	1
 reduce	enlarge	1
-settle	finalise	0
+settle	finalize	0
 enlist	discharge	1
 unify	separate	1
 extend	shorten	1
@@ -2160,7 +2143,7 @@ question	wonder	0
 narrow	broaden	1
 cease	refrain	0
 premier	premiere	0
-regroup	reorganise	0
+regroup	reorganize	0
 brighten	darken	1
 reduce	dilate	1
 interrupt	continue	1
@@ -2171,7 +2154,6 @@ overplay	underplay	1
 refuse	accept	1
 think	meditate	0
 bear	stand	0
-begin	recommence	0
 sew	tailor	0
 classify	declassify	1
 specialize	broaden	1
@@ -2216,7 +2198,6 @@ add	contribute	0
 abide	bear	0
 exhort	advise	0
 spy	scout	0
-intend	destine	0
 build	destroy	1
 rate	place	0
 emit	eject	0
@@ -2258,7 +2239,7 @@ break	promote	1
 quit	continue	1
 garner	distribute	1
 lack	have	1
-scandalise	shock	0
+scandalize	shock	0
 light	fall	0
 boycott	avoid	0
 recall	block	1
@@ -2289,7 +2270,6 @@ reply	rejoin	0
 upset	disrupt	0
 concur	approve	0
 skew	align	1
-practise	practice	0
 employ	sack	1
 block	release	1
 fire	engage	1
@@ -2482,7 +2462,6 @@ fail	win	1
 lift	descend	1
 disagree	hold	1
 command	control	0
-knap	chip	0
 demagnetize	magnetize	1
 make	undo	1
 fortify	arm	0
@@ -2518,7 +2497,6 @@ try	stress	0
 repair	restore	0
 lift	lower	1
 supply	render	0
-extemporize	improvise	0
 scatter	congregate	1
 support	corroborate	0
 downstream	upstream	1

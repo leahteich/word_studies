@@ -24,7 +24,6 @@ bilateral	unilateral	1
 wild	irregular	0
 integrated	structured	0
 deciduous	permanent	1
-patulous	open	0
 philosophical	emotional	1
 structured	unstructured	1
 selfish	unselfish	1
@@ -103,11 +102,9 @@ superfluous	necessary	1
 deep	thin	1
 antisubmarine	offensive	1
 despicable	mean	0
-covetous	greedy	0
 erroneous	true	1
 liquid	solid	1
 express	slow	1
-taiwanese	formosan	0
 heated	cold	1
 devoted	constant	0
 conditional	subject	0
@@ -329,7 +326,6 @@ gay	heterosexual	1
 atomic	big	1
 mechanical	atomic	1
 permanent	reversible	1
-female	pistillate	0
 marginal	wide	1
 vital	essential	0
 systemic	local	1
@@ -428,7 +424,6 @@ natural	adoptive	1
 marshy	waterlogged	0
 garish	bright	0
 experienced	inexperienced	1
-quiet	undemonstrative	0
 slender	slight	0
 insecure	suspicious	0
 tense	lax	1
@@ -436,9 +431,7 @@ famous	unknown	1
 close	short	0
 fair	beautiful	0
 cautious	circumspect	0
-staminate	pistillate	1
 organic	functional	1
-hairy	bristly	0
 bigamous	monogamous	1
 rude	harsh	0
 preliminary	final	1
@@ -453,13 +446,11 @@ great	commanding	0
 awake	alert	0
 hydrophilic	hydrophobic	1
 unwieldy	heavy	0
-sweet	honeyed	0
 moral	righteous	0
 mixed	homogenous	1
 adverse	favourable	1
 separate	joint	1
 parochial	insular	0
-open	undefended	0
 overweight	thin	1
 alcoholic	nonalcoholic	1
 splendid	brilliant	0
@@ -522,7 +513,6 @@ insular	isolated	0
 simultaneous	asynchronous	1
 intelligible	clear	0
 tenacious	long	0
-imperishable	indestructible	0
 strong	regular	1
 elementary	difficult	1
 retroactive	proactive	1
@@ -618,7 +608,6 @@ liquid	smooth	0
 beautiful	delightful	0
 neutral	negative	1
 ripe	immature	1
-baronial	noble	0
 underdeveloped	industrial	1
 wee	big	1
 considerable	good	0
@@ -676,8 +665,6 @@ spiteful	hateful	0
 prudent	economical	0
 incompatible	compatible	1
 imaginative	fanciful	0
-crumbly	soft	0
-sedative	anxiolytic	0
 lewd	lascivious	0
 pious	obedient	0
 personal	impersonal	1
@@ -723,7 +710,6 @@ material	immaterial	1
 historical	future	1
 inferior	substandard	0
 massive	monumental	0
-defamatory	libellous	0
 sonic	supersonic	1
 wide	distant	0
 tricky	crafty	0
@@ -749,10 +735,8 @@ alternate	opposite	1
 melancholy	sad	0
 foreign	domestic	1
 immoral	moral	1
-inalienable	imprescriptible	0
 angry	displeased	0
 important	urgent	0
-treasonable	seditious	0
 obscene	disgusting	0
 right	straight	0
 weak	infirm	0
@@ -780,7 +764,6 @@ ridiculous	surreal	0
 special	uncommon	0
 jewish	israelite	0
 temperate	moderate	0
-cryptographic	cryptanalytic	0
 apt	quick	0
 mindful	aware	0
 unorthodox	heretical	0
@@ -1101,7 +1084,6 @@ conservative	radical	1
 antiquated	obsolete	0
 centripetal	centrifugal	1
 busy	anxious	0
-flat	2-dimensional	0
 sloping	steep	1
 trivial	serious	1
 circular	cyclic	0
@@ -1261,10 +1243,8 @@ homeless	stateless	0
 special	common	1
 polite	polished	0
 high	grave	1
-avaricious	greedy	0
 alive	sensitive	0
 easy	steep	1
-prideful	arrogant	0
 retired	quiet	0
 royal	princely	0
 assorted	various	0
@@ -1281,8 +1261,6 @@ familiar	accessible	0
 mathematical	accurate	0
 tight	loose	1
 tart	sour	0
-limpid	bright	0
-hairy	pubescent	0
 apathetic	interested	1
 premature	late	1
 ephemeral	permanent	1
@@ -1292,7 +1270,6 @@ opposite	alternate	1
 first	pristine	0
 regular	complete	0
 subtle	shrewd	0
-suffragan	assistant	0
 pretty	ugly	1
 plausible	implausible	1
 daring	adventurous	0
@@ -1388,7 +1365,6 @@ dull	sleepy	0
 tender	warm	0
 true	reliable	0
 arctic	frigid	0
-redundant	pleonastic	0
 lavish	wasteful	0
 terrific	tremendous	0
 outside	internal	1
@@ -1401,7 +1377,6 @@ pure	spotless	0
 supersonic	subsonic	1
 undesirable	desirable	1
 miserable	worthless	0
-unrighteous	wicked	0
 rough	cut	1
 credible	incredible	1
 inadequate	adequate	1
@@ -1420,7 +1395,6 @@ productive	fruitful	0
 nontraditional	traditional	1
 subacute	chronic	1
 exhaustive	incomplete	1
-quadratic	square	0
 pragmatic	functional	0
 speedy	slow	1
 beautiful	graceful	0
@@ -1463,13 +1437,11 @@ rational	intelligent	0
 unmarried	married	1
 comical	laughable	0
 consonantal	vocalic	1
-galvanic	voltaic	0
 peculiar	funny	0
 independent	exclusive	0
 exact	incorrect	1
 terminal	final	0
 contentious	litigious	0
-fuliginous	dark	0
 competent	incompetent	1
 requisite	essential	0
 oblong	short	1
@@ -1669,7 +1641,6 @@ center	left	1
 same	different	1
 singular	strange	0
 easy	hard	1
-green	unripened	0
 alert	active	0
 common	individual	1
 unbelievable	incredible	0
@@ -1700,7 +1671,6 @@ indistinct	distinct	1
 spirited	lively	0
 severe	good	1
 collateral	lineal	1
-fulvous	yellow	0
 rich	fertile	0
 imperfect	incomplete	0
 immense	great	0
@@ -1747,7 +1717,6 @@ hollow	solid	1
 manly	masculine	0
 costly	cheap	1
 passive	submissive	0
-13th	thirteenth	0
 unjust	unfair	0
 limited	limitless	1
 brutal	barbaric	0
@@ -1766,7 +1735,6 @@ heavy	weighty	0
 thin	spirited	1
 industrious	energetic	0
 single	married	1
-elliptic	ovate	0
 concentric	eccentric	1
 reasonable	arbitrary	1
 honest	faithful	0
@@ -1833,7 +1801,6 @@ profane	holy	1
 runaway	fugitive	0
 alicyclic	aliphatic	1
 passionate	intense	0
-molecular	brownian	0
 interscholastic	intramural	1
 astonishing	amazing	0
 harmless	harmful	1
@@ -1896,7 +1863,6 @@ prime	meridian	0
 rustic	unsophisticated	0
 carnivorous	herbivorous	1
 childlike	childish	0
-superabundant	abundant	0
 black	diluted	1
 rugged	robust	0
 unremarkable	ordinary	0
@@ -1985,7 +1951,6 @@ ardent	keen	0
 shameless	brazen	0
 natural	sharp	1
 tough	tender	1
-immortal	imperishable	0
 high	dear	0
 unplanned	planned	1
 fictional	nonfictional	1
@@ -2096,7 +2061,6 @@ top	first	0
 competent	inadequate	1
 serious	easy	1
 bad	mild	1
-autochthonous	indigenous	0
 reliant	independent	1
 despondent	depressed	0
 next	adjacent	0
@@ -2152,7 +2116,6 @@ free	occupied	1
 unfair	disproportionate	0
 white	innocent	0
 chaotic	organized	1
-immortal	incorruptible	0
 middle	early	1
 anal	oral	1
 intense	vivid	0
@@ -2167,7 +2130,6 @@ gratuitous	unnecessary	0
 prepared	unwilling	1
 fine	harsh	1
 closed	tight	0
-active	transitive	0
 armored	unarmored	1
 dead	sensitive	1
 innocent	harmful	1
@@ -2202,7 +2164,6 @@ mobile	fickle	0
 adequate	capable	0
 sinuous	curved	0
 inshore	offshore	1
-eleventh	11th	0
 eccentric	odd	0
 small	loud	1
 neutral	aligned	1
@@ -2240,7 +2201,6 @@ pathetic	miserable	0
 cultural	ethnical	0
 undivided	divided	1
 beneficial	good	0
-somatic	mental	1
 loud	brassy	0
 big	heavy	0
 noticeable	weak	1
@@ -2293,7 +2253,6 @@ separable	inseparable	1
 potent	able	0
 unmanned	manned	1
 empty	clean	0
-matchless	single	0
 supranational	national	1
 undivided	fractional	1
 crucial	decisive	0
@@ -2404,7 +2363,6 @@ southern	southerly	0
 unlawful	wrongful	0
 constant	variable	1
 top	better	0
-sixth	6th	0
 privy	private	0
 prominent	inconspicuous	1
 actual	fictitious	1
@@ -2419,7 +2377,6 @@ mixed	homogeneous	1
 characteristic	typical	0
 good	bad	1
 particular	distinguished	0
-arithmetical	arithmetic	0
 trustworthy	honest	0
 heterogeneous	homogeneous	1
 rotten	good	1
@@ -2471,7 +2428,7 @@ teeny	tiny	0
 concrete	special	0
 terrible	ordinary	1
 fleshy	fat	0
-savage	civilised	1
+savage	civilized	1
 direct	indirect	1
 commodious	spacious	0
 digital	linear	1
@@ -2487,7 +2444,6 @@ subtractive	additive	1
 bad	standard	1
 amusing	sad	1
 spacious	broad	0
-graduate	postgraduate	0
 misty	cloudy	0
 anhydrous	hydrated	1
 prenatal	postnatal	1
@@ -2580,7 +2536,6 @@ unused	active	1
 dumb	vulgar	0
 grand	princely	0
 convenient	appropriate	0
-gray	greyish	0
 offensive	defensive	1
 heavy	sound	0
 female	masculine	1
@@ -2612,7 +2567,6 @@ undue	due	1
 integral	whole	0
 like	pet	1
 round	thin	1
-cold	passionless	0
 proper	decent	0
 unbounded	finite	1
 dead	living	1
@@ -2686,7 +2640,6 @@ outgoing	incoming	1
 everyday	strange	1
 righteous	holy	0
 ultimate	first	1
-detestable	abominable	0
 everyday	casual	0
 stubborn	inflexible	0
 conventional	typical	0
@@ -2723,7 +2676,6 @@ light	thick	1
 circular	perfect	0
 brown	mahogany	0
 connotative	denotative	1
-corporeal	incorporeal	1
 serious	sober	0
 central	focal	0
 good	propitious	0
@@ -2763,7 +2715,6 @@ unleaded	leaded	1
 idiographic	nomothetic	1
 spurious	genuine	1
 dangerous	severe	0
-immaterial	incorporeal	0
 nude	clothed	1
 untrustworthy	trustworthy	1
 lightweight	important	1
@@ -2814,7 +2765,6 @@ old	aged	0
 dirty	foul	0
 abusive	fraudulent	0
 meaningless	meaningful	1
-treacherous	perfidious	0
 autonomic	voluntary	1
 arabian	arab	0
 matriarchal	patriarchal	1
@@ -2886,7 +2836,6 @@ foul	fair	1
 delicate	easy	1
 previous	late	0
 fleshy	slender	1
-limpid	clear	0
 strong	ardent	0
 ineffective	effective	1
 youthful	old	1
@@ -2899,7 +2848,6 @@ unpaid	professional	1
 unfocused	focused	1
 mental	physical	1
 nocturnal	diurnal	1
-somatic	parietal	0
 wealthy	opulent	0
 vast	narrow	1
 tropical	cold	1
@@ -2960,9 +2908,7 @@ streaked	plain	1
 gallant	brave	0
 absurd	laughable	0
 temporary	eternal	1
-moral	incorruptible	0
 standard	irregular	1
-unripe	ripe	1
 keen	intelligent	0
 external	internal	1
 natural	accustomed	0
@@ -2985,13 +2931,11 @@ sportive	serious	1
 overt	covert	1
 tricky	easy	1
 voluntary	compulsory	1
-fourteenth	14th	0
 substantial	solid	0
 disgusting	revolting	0
 masculine	strong	0
 perpendicular	horizontal	1
 standard	nonstandard	1
-sinhalese	sinhala	0
 antagonistic	synergistic	1
 wavy	straight	1
 worldly	naive	1
@@ -3004,7 +2948,7 @@ stark	desolate	0
 resident	migratory	1
 dangerous	critical	0
 inexpensive	expensive	1
-civilised	cultured	0
+civilized	cultured	0
 analog	digital	1
 asexual	sexual	1
 valiant	courageous	0
@@ -3090,7 +3034,6 @@ soft	tough	1
 genuine	authentic	0
 mischievous	harmless	1
 venerable	young	1
-mexican	nahuatl	0
 icy	arctic	0
 indecent	decent	1
 original	secondary	1
@@ -3407,7 +3350,6 @@ renowned	notable	0
 specific	universal	1
 sudden	unexpected	0
 playable	unplayable	1
-viscous	glutinous	0
 sharp	abrupt	0
 adjoining	contiguous	0
 polite	rude	1
@@ -3477,7 +3419,6 @@ brutal	humane	1
 northeastern	south	1
 moist	dry	1
 dark	cheerful	1
-prescriptive	normative	0
 impracticable	impossible	0
 original	last	1
 contradictory	compatible	1
@@ -3487,7 +3428,6 @@ important	unimportant	1
 unwise	wise	1
 unsteady	steady	1
 incompatible	consistent	1
-12th	twelfth	0
 benevolent	kind	0
 bountiful	generous	0
 intrinsic	innate	0
@@ -3517,7 +3457,6 @@ passive	violent	1
 lyric	dramatic	1
 online	offline	1
 malign	benign	1
-salty	briny	0
 vivid	spirited	0
 subdued	bright	1
 red	crimson	0
@@ -3562,8 +3501,6 @@ singular	remarkable	0
 comparable	incomparable	1
 notable	prominent	0
 accurate	nice	0
-spanish	castilian	0
-oval	elliptic	0
 northwest	south	1
 lawless	unruly	0
 mod	modern	0
@@ -3573,7 +3510,6 @@ cortical	external	0
 strong	hardy	0
 sadistic	masochistic	1
 hypothetical	actual	1
-tart	tangy	0
 graceful	refined	0
 stout	thin	1
 flat	dull	0
@@ -3623,7 +3559,6 @@ ordinary	medium	0
 personalized	individualized	0
 intense	acute	0
 eccentric	whimsical	0
-basilar	inferior	0
 blank	vacant	0
 false	honest	1
 trite	banal	0
@@ -3757,7 +3692,6 @@ useful	advantageous	0
 persian	iranian	0
 brave	weak	1
 clear	cloudy	1
-19th	nineteenth	0
 potent	influential	0
 brachycephalic	dolichocephalic	1
 doable	impossible	1
@@ -3778,7 +3712,6 @@ princely	royal	0
 affirmative	neutral	1
 sincere	frank	0
 sham	real	1
-red	cochineal	0
 aged	young	1
 sparkling	witty	0
 pretty	neat	0
@@ -3823,13 +3756,11 @@ opposed	hostile	0
 semiaquatic	terrestrial	1
 capable	comprehensive	0
 filthy	impure	0
-abominable	detestable	0
 sane	crazy	1
 wise	skillful	0
 roman	oblique	1
 doubtful	certain	1
 reliable	certain	0
-cathartic	purgative	0
 unaware	ignorant	0
 tight	whole	0
 square	even	0
@@ -3868,7 +3799,6 @@ coarse	refined	1
 humane	inhumane	1
 unabridged	abridged	1
 deep	narrow	1
-sticky	viscid	0
 barbarous	foreign	0
 final	extreme	0
 many	numerous	0
@@ -3964,7 +3894,6 @@ skillful	able	0
 short	tall	1
 slack	tense	1
 bony	skeletal	0
-sympathomimetic	adrenergic	0
 contradictory	consistent	1
 heavy	lean	1
 awesome	cool	0
@@ -4027,7 +3956,6 @@ accurate	wrong	1
 grim	unforgiving	0
 unfeeling	callous	0
 unwritten	written	1
-castilian	spanish	0
 warm	comfortable	1
 bare	full	1
 right	suitable	0
@@ -4069,7 +3997,6 @@ lipophilic	polar	1
 tame	mild	0
 heterogeneous	homogenous	1
 petite	small	0
-unselfish	generous	0
 jumbo	small	1
 like	opposite	1
 alternative	conventional	1
@@ -4161,7 +4088,6 @@ esoteric	exoteric	1
 disconnected	fragmented	0
 epidemic	endemic	1
 notable	noted	0
-aliphatic	fatty	0
 difficult	laborious	0
 side	top	1
 straight	corrupt	1
@@ -4203,7 +4129,6 @@ singular	extraordinary	0
 hot	blistering	0
 neat	straight	0
 ornamental	functional	1
-magical	hermetic	0
 unemotional	cold	0
 total	entire	0
 first	inaugural	0
@@ -4221,7 +4146,6 @@ individual	dependent	1
 seminal	innovative	0
 corporeal	spiritual	1
 totalitarian	democratic	1
-decidable	computable	0
 mediocre	superior	1
 external	intrinsic	1
 net	gross	1
@@ -4233,7 +4157,6 @@ exculpatory	inculpatory	1
 barren	stark	0
 recent	ancient	1
 transparent	corrupt	1
-favorite	favourite	0
 willing	voluntary	0
 flexible	pliant	0
 clumsy	unwieldy	0
@@ -4263,7 +4186,6 @@ ugly	repulsive	0
 spacious	little	1
 ordinary	mediocre	0
 weird	wild	0
-haemorrhagic	hemorrhagic	0
 bloody	infamous	0
 vertebral	spinal	0
 solitary	individual	0
@@ -4368,7 +4290,6 @@ basic	last	1
 voluntary	obligatory	1
 relevant	significant	0
 honest	dependable	0
-green	unripe	0
 disturbed	distressed	0
 ignoble	noble	1
 fresh	dry	1
@@ -4376,7 +4297,6 @@ unattainable	possible	1
 lavish	poor	1
 intricate	complicated	0
 nonchalant	casual	0
-limpid	pure	0
 fashionable	unfashionable	1
 lustrous	glossy	0
 unreliable	reliable	1
@@ -4432,14 +4352,12 @@ anisotropic	isotropic	1
 extra	necessary	1
 amiable	genial	0
 same	similar	0
-juridical	legal	0
 old	future	1
 affable	friendly	0
 suspicious	jealous	0
 murky	muddy	0
-royal	monarchical	0
 revolutionary	old	1
-defenceless	helpless	0
+defenseless	helpless	0
 stiff	rigid	0
 conclusive	final	0
 explicit	express	0
@@ -4447,7 +4365,6 @@ severe	mild	1
 tonal	atonal	1
 daily	formal	1
 elegant	tasteful	0
-valorous	brave	0
 dubious	certain	1
 scabrous	smooth	1
 affirmative	positive	0
@@ -4505,7 +4422,6 @@ independent	sovereign	0
 benevolent	malevolent	1
 inflationary	deflationary	1
 systematic	unsystematic	1
-cancellous	trabecular	0
 overweight	obese	0
 dirty	lewd	0
 numerical	mathematical	0
@@ -4569,7 +4485,6 @@ disjunctive	conjunctive	1
 uncompromising	strict	0
 low	high	1
 backward	forward	1
-viscid	sticky	0
 like	comparable	0
 able	incapable	1
 adequate	insufficient	1
@@ -4618,7 +4533,6 @@ furious	frantic	0
 unorthodox	orthodox	1
 short	insufficient	0
 impromptu	prepared	1
-spinous	spiny	0
 definable	indefinable	1
 arrogant	proud	0
 rocky	stony	0
@@ -4661,7 +4575,6 @@ inevitable	unavoidable	0
 summary	short	0
 incoming	outgoing	1
 fertile	fruitful	0
-peppery	hot	0
 predatory	carnivorous	0
 foggy	clear	1
 prominent	striking	0
@@ -4734,7 +4647,6 @@ extraordinary	remarkable	0
 hard	severe	0
 creamy	thin	1
 facultative	obligatory	1
-insipid	weak	0
 argillaceous	arenaceous	1
 despotic	authoritarian	0
 silky	dull	1
@@ -4802,7 +4714,6 @@ strong	stiff	0
 unstructured	structured	1
 vernacular	literary	1
 void	valid	1
-7th	seventh	0
 stable	unstable	1
 popular	unpopular	1
 mental	subjective	0
@@ -4843,7 +4754,6 @@ obligatory	optional	1
 red	magenta	0
 unrefined	refined	1
 stagnant	dead	0
-boggy	marshy	0
 analogous	homologous	1
 vigilant	watchful	0
 farthest	near	1
@@ -4854,19 +4764,16 @@ peripheral	central	1
 oblique	direct	1
 nonsensical	meaningless	0
 brutal	unrelenting	0
-pistillate	male	1
 vast	wide	0
 royal	imperial	0
 associative	nonassociative	1
 intricate	simple	1
 slender	broad	1
-nineteenth	19th	0
 impure	filthy	0
 aware	mindful	0
 formal	representational	1
 narrow	accurate	0
 bent	vertical	1
-enteric	intestinal	0
 thick	mild	1
 true	exact	0
 abrupt	sharp	0
@@ -4942,7 +4849,6 @@ obsolete	current	1
 static	mobile	1
 customary	usual	0
 eternal	ephemeral	1
-agglutinative	polysynthetic	0
 definite	indefinite	1
 fiery	passionate	0
 official	unofficial	1
@@ -4961,7 +4867,6 @@ exquisite	beautiful	0
 novel	unusual	0
 noninvasive	invasive	1
 maiden	first	0
-discontinuous	discrete	0
 spurious	false	0
 readable	interesting	0
 unintended	intended	1
@@ -5014,16 +4919,12 @@ incapable	able	1
 solid	heterogeneous	1
 hairy	woolly	0
 concerned	interested	0
-immutable	unchangeable	0
 impressed	unimpressed	1
 human	divine	1
 incomprehensible	unintelligible	0
 enlarged	small	1
-16th	sixteenth	0
 personal	objective	1
 inland	coastal	1
-generous	munificent	0
-extra	supernumerary	0
 quick	active	0
 stewed	raw	1
 monarchic	democratic	1
@@ -5074,7 +4975,6 @@ side	long	0
 bright	cheery	0
 interior	external	1
 undivided	entire	0
-turbid	murky	0
 heterogeneous	diverse	0
 heroic	small	1
 predatory	defensive	1
@@ -5139,7 +5039,6 @@ like	dissimilar	1
 complex	simple	1
 topical	systemic	1
 essential	unnecessary	1
-raw	unripe	0
 foreign	exotic	0
 frank	free	0
 stony	soft	1
@@ -5148,7 +5047,6 @@ open	candid	0
 predictive	reactive	1
 rowdy	rough	0
 ripe	green	1
-elastic	springy	0
 intrinsic	natural	0
 progressive	conservative	1
 funny	grotesque	0
@@ -5199,7 +5097,7 @@ canned	fresh	1
 dusty	original	1
 positive	real	0
 equal	equitable	0
-armoured	mechanized	0
+armored	mechanized	0
 various	same	1
 distinguished	special	0
 acidic	sweet	1
@@ -5250,7 +5148,6 @@ glorious	praiseworthy	0
 nonsensical	ridiculous	0
 upset	determined	0
 costly	expensive	0
-discourteous	rude	0
 local	topical	0
 dirty	vile	0
 earnest	solemn	0
@@ -5262,7 +5159,6 @@ allergic	hypersensitive	0
 nonmilitary	military	1
 local	general	1
 compact	loose	1
-metalloid	nonmetal	0
 metallic	basic	0
 wistful	melancholy	0
 close	long	1
@@ -5296,7 +5192,6 @@ great	little	1
 opaque	translucent	1
 conjunctive	disjunctive	1
 common	unusual	1
-expository	explanatory	0
 luxurious	opulent	0
 western	east	1
 unpretentious	understated	0
@@ -5338,7 +5233,6 @@ good	remote	1
 evergreen	deciduous	1
 original	primitive	0
 actual	factual	0
-round	orbicular	0
 northerly	northern	0
 contrary	same	1
 deep	little	1
@@ -5360,7 +5254,6 @@ separate	individual	0
 sober	drunk	1
 crisp	straight	1
 sedimentary	igneous	1
-9th	ninth	0
 easy	uneasy	1
 tacky	cheap	0
 frosty	cold	0
@@ -5464,7 +5357,6 @@ unresolved	open	0
 horizontal	flat	0
 distant	close	1
 religious	secular	1
-impulsive	hotheaded	0
 uncommon	strange	0
 artificial	false	0
 brutal	bestial	0
@@ -5478,7 +5370,6 @@ prime	select	0
 wooden	graceful	1
 mean	generous	1
 dictatorial	authoritarian	0
-babylonian	chaldean	0
 hot	slow	1
 slick	sleek	0
 bad	healthy	1
